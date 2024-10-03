@@ -7,18 +7,46 @@ redirect_from:
   - /about.html
 ---
 
-My research focuses on three major areas (1) Transportation systems analysis and modeling (2) Urban traffic management and operations, and (3) Interdependent infrastructure systems resilience.
+My research focuses on three major areas (1) Transportation systems modeling and simulation (2) Urban traffic management and operations, and (3) Interdependent infrastructure systems resilience.
+
+Awards
+------
+* Transportation Science Meritorious Service Award, 2024
+* NSF CAREER Award, 2021
+* ASCE ExCEEd Faculty Fellowship, US Military Academy West Point, 2018
+* Best Paper Award at IEEE International Conference on Intelligent Transportation Systems, 2015
+* NCITE Student Scholarship Award, 2010
+* Matthew J. Huber Award for Excellence in Transportation Research, 2007
+* Nanrui Excellent Graduate Thesis Fund, 2001
+
+Education
+-----
+* Ph.D. in Civil Engineering, University of Minnesota, Twin Cities, 2010
+* M.S. in Civil Engineering, University of Minnesota, Twin Cities, 2007
+* M.S. in Computational Mathematics, Nanjing University, China, 2003
+* B.S. in Computational Mathematics, Nanjing University, China, 2000
+
+Experience
+-----
+* Associate Professor, Civil and Environmental Engineering, Rensselaer Polytechnic Institute, Jan., 2024 ~ present
+* Assistant Professor, Civil and Environmental Engineering, Rensselaer Polytechnic Institute, Jan., 2017 ~ Dec. 2023
+* Assistant Director of Research, VREF Center of Excellence for Sustainable Urban Freight System
+* Postdoc Research Associate, NEXTRANS Center, Purdue University, Aug., 2012 ~ Dec., 2016
+* Postdoc Research Associate, University of Minnesota, Twin Cities, Jan., 2011 ~ Aug., 2012
+
+
+
+View my [Curriculum Vitae](/files/CV_XiaozhengHe_Online_2024.pdf) in pdf.
 
 <!---
 This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
 -->
 
-View my [Curriculum Vitae](/files/CV_XiaozhengHe_Online_2024.pdf) in pdf.
-
-
+<!---
 A data-driven personal website
 ======
 Like many other Jekyll-based GitHub Pages templates, Academic Pages makes you separate the website's content from its form. The content & metadata of your website are in structured markdown files, while various other files constitute the theme, specifying how to transform that content & metadata into HTML pages. You keep these various markdown (.md), YAML (.yml), HTML, and CSS files in a public GitHub repository. Each time you commit and push an update to the repository, the [GitHub pages](https://pages.github.com/) service creates static HTML pages based on these files, which are hosted on GitHub's servers free of charge.
+-->
 
 Many of the features of dynamic content management systems (like Wordpress) can be achieved in this fashion, using a fraction of the computational resources and with far less vulnerability to hacking and DDoSing. You can also modify the theme to your heart's content without touching the content of your site. If you get to a point where you've broken something in Jekyll/HTML/CSS beyond repair, your markdown files describing your talks, publications, etc. are safe. You can rollback the changes or even delete the repository and start over -- just be sure to save the markdown files! Finally, you can also write scripts that process the structured data on the site, such as [this one](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb) that analyzes metadata in pages about talks to display [a map of every location you've given a talk](https://academicpages.github.io/talkmap.html).
 
@@ -51,6 +79,8 @@ Many people use a git client to create files on their local computer and then pu
 Example: editing a markdown file for a talk
 ![Editing a markdown file for a talk](/images/editing-talk.png)
 
+
 For more info
 ------
 More info about configuring Academic Pages can be found in [the guide](https://academicpages.github.io/markdown/). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful.
+-->
