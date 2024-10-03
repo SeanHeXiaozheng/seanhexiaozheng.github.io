@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Welcome to HEX Lab"
+title                    : "Welcome to HEX Lab @ RPI"
 title_separator          : "-"
 name                     : &name "Sean X. He"
 description              : &description "Associate Professor"
@@ -21,11 +21,11 @@ repository               : "seanhexiaozheng/seanhexiaozheng.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "XiaozhengHe_Online_Square.png"
-  name             : "Sean X. He"
   pronouns         : "he/him"  
-  bio              : "Transportation systems modeling and simiulation; urban traffic management and operations; interdependent infrastructure systems resilience"
   location         : "Troy NY"
+  bio              : "Associate Professor"
+  name             : "Sean X. He"
+  avatar           : "XiaozhengHe.jpg"
   employer         : "Rensselaer Polytechnic Institute"
   uri              : # URL
   email            : "hex6@rpi.edu" 
@@ -57,7 +57,7 @@ author:
   keybase          : # Username
   instagram        : # Username
   lastfm           : # Username
-  linkedin         : "https://www.linkedin.com/in/xiaozheng-sean-he-8ab8b832/"
+  linkedin         : "www.linkedin.com/in/xiaozheng-sean-he-8ab8b832"
   mastodon         : # URL
   medium           : # URL
   pinterest        : # Username
