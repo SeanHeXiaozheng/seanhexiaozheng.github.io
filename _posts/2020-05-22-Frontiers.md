@@ -1,7 +1,7 @@
 ---
-title: 'TR-B Editor'
-date: 2018-06-01
-permalink: /posts/2018/06/news-1/
+title: 'Associate Editor'
+date: 2020-05-22
+permalink: /posts/2020/05/news-1/
 tags:
   - service
   - editorial
