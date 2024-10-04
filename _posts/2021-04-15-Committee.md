@@ -1,5 +1,5 @@
 ---
-title: 'Interview'
+title: 'TRB Committee Member'
 date: 2021-04-15
 permalink: /posts/2021/04/news-1/
 tags:
