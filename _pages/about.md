@@ -26,7 +26,7 @@ Education
 * M.S. in Computational Mathematics, Nanjing University, China, 2003
 * B.S. in Computational Mathematics, Nanjing University, China, 2000
 
-Experience
+Appointments
 -----
 * Associate Professor, Civil and Environmental Engineering, Rensselaer Polytechnic Institute, Jan., 2024 ~ present
 * Assistant Professor, Civil and Environmental Engineering, Rensselaer Polytechnic Institute, Jan., 2017 ~ Dec. 2023
