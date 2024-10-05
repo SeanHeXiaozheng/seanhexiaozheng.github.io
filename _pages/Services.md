@@ -4,7 +4,7 @@ title: "Services"
 author_profile: true
 redirect_from: 
   - /md/
-  - /markdown.html
+  - /services.html
 ---
 
 ## Locations of key files/directories

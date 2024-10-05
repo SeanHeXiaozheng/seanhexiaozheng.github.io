@@ -33,7 +33,7 @@ main:
     url: /teaching/    
 
   - title: "Services"
-    url: /markdown/
+    url: /services/
     
   - title: "News"
     url: /year-archive/
