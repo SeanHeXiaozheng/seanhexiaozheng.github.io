@@ -5,12 +5,12 @@ permalink: /research/
 author_profile: true
 redirect_from:
   - /resume
----
+===
 
 {% include base_path %}
 
 Transportation Systems Modeling and Analysis
-===
+---
 
 ### Connected Vehicle System Analysis
 - Analytical modeling of information propagation in a connected vehicle system
@@ -31,7 +31,7 @@ Transportation Systems Modeling and Analysis
 - Bender’s decomposition scheme for large-scale network evacuation problems
 
 Traffic Management and Operations
-===
+---
 
 ### Energy Optimal Control for Mixed Traffic Flow
 - Optimal speed trajectory for electric vehicles on signalized arterials
@@ -48,7 +48,7 @@ Traffic Management and Operations
 - Benefit-cost analysis of HOT lanes
 
 Infrastructure System Resilience
-===
+---
 
 ### Transportation Network Reliability Assessment
 - Transportation system vulnerability assessment using historical disaster data and GIS information
@@ -60,7 +60,7 @@ Infrastructure System Resilience
 - Development of an optimization model to enhance interdependent infrastructure systems' resilience
 
 Team Members
-===
+---
 
 ### Ph.D. Students
 - Ms. Henan Zhu, Aug. 2022 - Present
@@ -84,58 +84,3 @@ Team Members
 - Ms. Saanvi Sharma 
   * Project won a grand prize in the engineering category at Synopsys Science Fair
 
-
-
-Education
-======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
-
-Work experience
-======
-* Spring 2024: Academic Pages Collaborator
-  * Github University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
-
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
-
-Publications
-======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams

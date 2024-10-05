@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-My expertise is in modeling and simulating transportation systems with an emphasis on the impacts of emerging technologies and network disruptions. My research seeks to solve problems related to interdependent systems resilience, connected autonomous vehicles, and electric vehicles, through tools developed based on operations research, game theory, information theory, control, complex network, and machine learning. Currently, I serve as a committee member on the Network Modeling Standing Committee of the Transportation Research Board (TRB), an editorial board member for Transportation Research Part B, an associate editor for Frontiers in Future Transportation, and a guest editor for several transportation journals. I am also a technical committee member for several international conferences. 
+My expertise is in modeling and simulating transportation systems with an emphasis on the impacts of emerging technologies and network disruptions. My research seeks to solve problems related to interdependent systems resilience, connected autonomous vehicles, and electric vehicles, through using tools developed based on operations research, game theory, information theory, control, complex network, and machine learning. Currently, I serve as a committee member on the Network Modeling Standing Committee of the Transportation Research Board (TRB), an editorial board member for Transportation Research Part B, an associate editor for Frontiers in Future Transportation, and a guest editor for several transportation journals. I am also a technical committee member for several international conferences. 
 
 Awards
 ------
