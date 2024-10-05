@@ -30,40 +30,60 @@ redirect_from:
 - **Academic Committee Member**, 2019 International Conference on Intelligent Transportation and Vehicle Engineering (ICITVE 2019)—Chongqing, China, December 6-8, 2019
 - **Committee Member**, COTA Best Dissertation Award (2018)
 
+## Proposal Referee
+- **NSF panelist** (ENG/CMMI)
+  * CIS (2023) 
+  * CPS (2019, 2024)
+  * MRI (2024)
+  * DCSD (2024)
+- **NSF panelist** (SBE) 
+  *SAI (2022, 2023)
+- **NSF ad-hoc reviewer** (ENG/CMMI) (2022)
+- **Proposal reviewer for University Transportation Centers** 
+  * TransInfo, Tier I UTC (2017) 
+  * NCST Center, National UTC (2019, 2020) 
+  * STRIDE Center, Regional UTC (2019) 
+  * PacTrans Center, Regional UTC (2024)
+  * Pacific Southwest Region (PSR) UTC (2024)  
+- **FONDECYT Program—Chile** (2020)
+- **Research Grants Council of Hong Kong** (2021, 2022, 2023, 2024)
+- **Innovation and Technology Commission of Hong Kong** (2024)
+- **University of California Institute of Transportation Studies** (2020, 2023)
+
 ## Journal Paper Referee
-- **Transportation Research Part A, B, C, D, E**
-- **Transportation Science**
-- **Transportation**
-- **Transportation Safety & Security**
-- **Transportmetrica A, B**
-- **IEEE Transactions on Cybernetics**
-- **IEEE Transactions on Intelligent Transportation Systems**
-- **IEEE Transactions on Industrial Electronics**
-- **IEEE Transactions on Transportation Electrification**
-- **IET Intelligent Transport Systems**
-- **International Journal of Transportation Science and Technology**
-- **Networks and Spatial Economics**
-- **Nonlinear Analysis: Hybrid Systems**
-- **Journal of Intelligent Transportation Systems**
-- **Journal of Advanced Transportation**
-- **Journal of Optimization Theory and Applications**
-- **Journal of Global Optimization**
-- **Journal of Applied Mathematics and Computing**
-- **Journal of Cleaner Production**
-- **Journal of Beijing University of Aeronautics and Astronautics**
-- **Computer-Aided Civil and Infrastructure Engineering**
-- **Computers & Industrial Engineering**
-- **Expert Systems With Applications**
-- **Energies**
-- **Automatica**
-- **Optimization Letters**
-- **Physica A**
-- **PLOS ONE**
-- **Applied Sciences**
-- **KSCE Journal of Civil Engineering**
-- **Multimedia Tools and Applications**
-- **Reliability Engineering & System Safety**
-- **Sustainability**
+- Transportation Research Part A, B, C, D, E
+- Transportation Science
+- Transportation
+- Transportation Safety & Security
+- Transportmetrica A, B
+- IEEE Transactions on Cybernetics
+- IEEE Transactions on Intelligent Transportation Systems
+- IEEE Transactions on Industrial Electronics
+- IEEE Transactions on Transportation Electrification
+- IET Intelligent Transport Systems
+- International Journal of Transportation Science and Technology
+- Networks and Spatial Economics
+- Nonlinear Analysis: Hybrid Systems
+- Journal of Intelligent Transportation Systems
+- Journal of Advanced Transportation
+- Journal of Optimization Theory and Applications
+- Journal of Global Optimization
+- Journal of Applied Mathematics and Computing
+- Journal of Cleaner Production
+- Journal of Beijing University of Aeronautics and Astronautics
+- Computer-Aided Civil and Infrastructure Engineering
+- Computers & Industrial Engineering
+- Expert Systems With Applications
+- Energies
+- Automatica
+- Optimization Letters
+- Physica A
+- PLOS ONE
+- Applied Sciences
+- KSCE Journal of Civil Engineering
+- Multimedia Tools and Applications
+- Reliability Engineering & System Safety
+- Sustainability
 
 ## Conference Paper Referee
 - **International Symposium on Transportation and Traffic Theory**
@@ -76,15 +96,10 @@ redirect_from:
 
 ## Conference Session Chair
 - **Transportation Research Board Annual Meeting, 2025**, "Network Modeling"
-- **INFORMS Annual Meeting, 2020**, “Pricing and Incentive Strategies Leveraging Emergent Technologies”
+- **INFORMS Annual Meeting**, 2021, “Data-driven Modeling and Analytics in Infrastructure Systems in Response to Disturbances.”
+- **INFORMS Annual Meeting**, 2020, “Pricing and Incentive Strategies Leveraging Emergent Technologies”
 - **Workshop on Precise Task Control in Teleoperation**, The 5th International Conference on Artificial Intelligence and Security, New York University, July 26-28, 2019, New York
 - **INFORMS Annual Meeting**, 2013, 2014, 2016
-
-## Proposal Reviewer
-- **NSF panelist** (2019, 2022, 2023), ad-hoc reviewer (2022)
-- **Proposal reviewer for University Transportation Centers (UTCs)**: TransInfo (2017), STRIDE Center (2019), NCST Center (2019, 2020)
-- **Proposal reviewer for Research Grants Council of Hong Kong** (2021, 2022, 2023)
-- **FONDECYT Program—Chile** (2020)
 
 ## Professional Membership
 - **Institute of Transportation Engineers (ITE)** Member

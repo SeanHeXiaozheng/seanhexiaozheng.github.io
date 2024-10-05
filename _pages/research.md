@@ -82,7 +82,7 @@ Team Members
   * Won a travel award to present her research at UTRC’s Transportation Technology Symposium
   * Enrolled into the Masters of Urban Planning at Texas A&M University Fall, 2024
 
-### Highschool Research Intern
-- Ms. Saanvi Sharma 
-  * Project won a grand prize in the engineering category at Synopsys Science Fair
+### High school Research Intern
+- Ms. Saanvi Sharma, May 2024~present
+  * Project won a grand prize in the engineering category at Synopsys Science Fair 2024
 
