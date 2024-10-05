@@ -32,9 +32,8 @@ main:
   - title: "Teaching"
     url: /teaching/    
 
-
   - title: "Services"
-    url: /markdown/
+    url: /Services/
     
   - title: "News"
     url: /year-archive/
