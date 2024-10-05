@@ -69,7 +69,9 @@ Team Members
   * Won the 2022 Founders Award of Excellence
   * Won the 2021 Belsky Award for Computational Sciences and Engineering
 - Mr. Yu Wei, PhD, Aug. 2018 - May 2023
-- Mr. Chunheng Jiang, PhD, May 2018 - May 2022
+  * First employment: Transportation Modeler @ The Corradino Group
+- Mr. Chunheng Jiang, Computer Science (Co-advised with Prof. Jianxi Gao) May 2018 - May 2022
+  * First employment: Machine Learning Engineer @ Google
 
 ### Visiting Scholars
 - Mr. Pengcheng Wang, PhD, Oct. 2018 - Oct. 2019, Beihang University
