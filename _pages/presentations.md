@@ -11,12 +11,13 @@ redirect_from:
 
 ## Contents
  - [Invited workshop/panel speaker](##invited-panel-speaker)
- - [Invited talk](##invited-talk)
+ - [Invited talk](#Chapter2)
  - [Conference presentations](##conference-presentations)
  
-[Invited workshop/panel speaker](##invited-panel-speaker) | [Invited talk](##invited-talk) | [Conference presentations](##conference-presentations)
+[Invited workshop/panel speaker](##invited-workshoppanel-speaker) | [Invited talk](##invited-talk) | [Conference presentations](##conference-presentations)
 
-## Invited panel speaker
+<div id="Chapter1"></div>
+## Invited workshop/panel speaker
 -----
 1.	**He X.** (2023) Panel on ITS for Transit, ITS-NY Thirtieth Annual Meeting & Technology Exhibition: A Connected World. June 14-16, 2023. 
 2.	**He X.** (2022) Panel on Emerging Technologies and Trends, ITS-NY Twenty-Ninth Annual Meeting & Technology Exhibition. June 16-17, 2022.  
@@ -54,6 +55,7 @@ redirect_from:
 
 [To the top](##contents)
 
+<div id="Chapter2"></div>
 ## Conference presentations
 ----
 31.	Ma X., **He X.** (2024) Real-time en-route suggestions to CAVs for congestion mitigation: A two-way deep reinforcement learning approach. The 25th International Symposium on Transportation and Traffic Theory (ISTTT), July 15-17, 2024, Ann Arbor, Michigan.
@@ -167,3 +169,4 @@ redirect_from:
 138.	Liu H.X., **He X.**, He B.S. (2006/2007) Method of successive weighted averages (MSWA) and self-regulated averaging schemes for solving stochastic user equilibrium problem. 2006 INFORMS Annual Meeting and 86th TRB Annual Meeting. 
 139.	Liu H.X., **He X.**, Recker W. (2006) Estimation of the time-dependency of values of travel time and its reliability from loop detector data. 85th TRB Annual Meeting.
 
+[To the top](##contents)
