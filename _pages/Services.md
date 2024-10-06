@@ -16,6 +16,8 @@ redirect_from:
 
 ## Special Issue Editor
 - **Transportation Research Part B**, on "Methodological Advances for Connected and Autonomous Transportation Systems: Revolutionizing Operation, Management, and Planning"
+- **Automotive Innovation**, on "Feature Topic on Intelligent Transportation Systems"
+- **Multimodal Transportation**, on "Advances in Connected and Autonomous Transportation: Revolutionizing Operation, Management, and Planning"
 - **Transportation Research Part D**, on "Advances in Alternative Fuel Vehicles"
 - **Frontiers in Future Transportation**, on "Innovative approaches for resilient connected and automated vehicle systems"
 - **Sustainability**, on "Sustainable Transportation and Traffic in Smart Cities"
@@ -37,7 +39,7 @@ redirect_from:
   * MRI (2024)
   * DCSD (2024)
 - **NSF panelist** (SBE) 
-  *SAI (2022, 2023)
+  * SAI (2022, 2023)
 - **NSF ad-hoc reviewer** (ENG/CMMI) (2022)
 - **Proposal reviewer for University Transportation Centers** 
   * TransInfo, Tier I UTC (2017) 
