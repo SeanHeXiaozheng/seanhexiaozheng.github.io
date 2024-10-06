@@ -6,9 +6,9 @@ redirect_from:
   - /publications.html
 ---
 
+<div id="Contents"></div> 
 You can also find my articles on my [Google Scholar profile](https://scholar.google.com/citations?user=2lwJEmUAAAAJ&hl=en).
 
-<div id="Contents"></div> 
 [Journal papers](#Journal) | [Conference proceedings](#Conf) | [Book chapters](#Chapters) | [Research reports](#Reports)
 
 <div id="Journal"></div>
@@ -161,3 +161,5 @@ You can also find my articles on my [Google Scholar profile](https://scholar.goo
 3. Liu H.X., He X., Zhang S. (2012) Rethinking How We Manage Traffic to Reduce Emissions while Maintaining Mobility: A New Paradigm for Traffic Management. Initiative for Renewable Energy and the Environment Center for Transportation Studies, University of Minnesota.
 2.	Cao X., Liu H.X., He X., Xu Z., Huang Y., Munnich L. (2012) Benefit and Cost Analysis of the I-394 MnPASS Program. Report No. 12-03, Intelligent Transportation Systems Institute, Center for Transportation Studies, University of Minnesota.
 1. Liu H.X., Danczyk A, He X. (2011) Development of the next generation metro-wide simulation models for the Twin Cities’ metropolitan area: Mesoscopic modeling. Report No. 11-03, Center for Transportation Studies, University of Minnesota.
+
+[To the top](#Contents)
