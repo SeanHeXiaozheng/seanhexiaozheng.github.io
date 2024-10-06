@@ -1,5 +1,5 @@
 ---
-title: "Traffic Engineering"
+title: "CIVL 4660 - Traffic Engineering"
 collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/trafficengi

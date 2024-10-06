@@ -1,14 +1,14 @@
 ---
-title: "Beginning Programming in CEE"
+title: "CIVL 1300 - Beginning Programming in CEE"
 collection: teaching
-type: "Coure"
+type: "Undergraduate coure"
 permalink: /teaching/beginprogram
-venue: "RPI, Civil"
+venue: "RPI, Civil Engineering"
 date: 2024-01-01
 location: "Troy, NY"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
+This course teaches elementary programming concepts using the Python environment.  Students are expected to have little or no prior programming experience.  Topics include Python language syntax, variables, looping, function calls, manipulating arrays, perfoming statistical calculations, and plotting results.
 
 Heading 1
 ======
