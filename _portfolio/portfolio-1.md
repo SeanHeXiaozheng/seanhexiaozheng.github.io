@@ -1,6 +1,6 @@
 ---
-title: "Portfolio item number 1"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/foo-bar-identity-th.jpg'>"
+title: "Project number 1"
+excerpt: "Short description of this figure to change<br/><img src='/images/foo-bar-identity-th.jpg'>"
 date: 2020-09-01
 collection: projects
 ---
