@@ -1,5 +1,5 @@
 ---
-title: "CIVL2030 - Introduction to Transportation Engineering"
+title: "CIVL 2030 - Introduction to Transportation Engineering"
 collection: teaching
 type: "Undergraduate coure"
 permalink: /teaching/intro
