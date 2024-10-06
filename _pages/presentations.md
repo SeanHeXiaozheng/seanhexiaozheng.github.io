@@ -7,7 +7,14 @@ redirect_from:
   - /presentations.html
 ---
 
-Invited workshop/panel speaker
+
+
+# Contents
+ - [Specification](#specification) 
+ - [Dependencies Title](#dependencies-title) 
+[Invited workshop/panel speaker](##invited workshop/panel speaker)|[Invited talk](##invited talk)|[Conference presentations](##conference presentations)
+
+## Invited workshop/panel speaker
 -----
 1.	**He X.** (2023) Panel on ITS for Transit, ITS-NY Thirtieth Annual Meeting & Technology Exhibition: A Connected World. June 14-16, 2023. 
 2.	**He X.** (2022) Panel on Emerging Technologies and Trends, ITS-NY Twenty-Ninth Annual Meeting & Technology Exhibition. June 16-17, 2022.  
@@ -15,7 +22,7 @@ Invited workshop/panel speaker
 4.	**He X.** (2019) Workshop on Precise Task Control in Teleoperation. The 5th International Conference on Artificial Intelligence and Security, New York University, July 26-28, New York, NY.
 5.	**He X.** (2018) TianYuan Workshop Series, gave a four-day short course on Mathematical Modeling and Numerical Experiments for Network Analysis and Traffic Control in Connected-Vehicle Systems. Nanjing University of Aeronautics and Astronautics, Nanjing, China, July 13-16.
 
-Invited talk
+## Invited talk
 -----
 6.	**He X.** (2024) AI-Enabled Heterogeneous Information Provision for Congestion Mitigation based on Behavioral Economics. School of System Science, Beijing Jiaotong University, Beijing China, June 6, 2024.
 7.	**He X.** (2024) Enhancing CAV Intersection Crossings Reliability: A Mechanical Vibration Theoretic Approach. School of Economics and Management, Dalian University of Technology, Dalian, China, June 3, 2024.
@@ -43,7 +50,7 @@ Invited talk
 29.	**He X.** (2010) Modeling the traffic flow evolution process after an unexpected network disruption. Department of Civil and Environmental Engineering, University of Maryland College Park, Oct. 22.
 30.	**He X.** (2010) Modeling the traffic flow evolution process after an unexpected network disruption. School of Civil and Environmental Engineering, Cornell University, Sept. 23.
 
-Conference presentations
+## Conference presentations
 ----
 31.	Ma X., **He X.** (2024) Real-time en-route suggestions to CAVs for congestion mitigation: A two-way deep reinforcement learning approach. The 25th International Symposium on Transportation and Traffic Theory (ISTTT), July 15-17, 2024, Ann Arbor, Michigan.
 32.	Zhu H., **He X.** (2024) Who is ready to embrace accessible drone delivery in rural areas? Insights from Large Language Model (LLM)-Driven Willingness Analysis. ITS-NY Thirty-First Annual Meeting & Technology Exhibition: “Guardians of Transportation”, Saratoga Springs, NY, June 13-14, 2024. 
