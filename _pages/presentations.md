@@ -12,9 +12,10 @@ redirect_from:
 ## Contents
  - [Specification](#specification) 
  - [Dependencies Title](#dependencies-title) 
-[Invited workshop/panel speaker](##invited workshop/panel speaker)|[Invited talk](##invited talk)|[Conference presentations](##conference presentations)
+ 
+[Invited workshop/panel speaker](##invited-panel-speaker)|[Invited talk](##invited-talk)|[Conference presentations](##conference-presentations)
 
-## Invited workshop/panel speaker
+## Invited panel speaker
 -----
 1.	**He X.** (2023) Panel on ITS for Transit, ITS-NY Thirtieth Annual Meeting & Technology Exhibition: A Connected World. June 14-16, 2023. 
 2.	**He X.** (2022) Panel on Emerging Technologies and Trends, ITS-NY Twenty-Ninth Annual Meeting & Technology Exhibition. June 16-17, 2022.  
