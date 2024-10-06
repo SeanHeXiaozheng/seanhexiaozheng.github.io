@@ -1,8 +1,8 @@
 ---
 title: "CAREER Award"
-collection: publications
+collection: projects
 category: manuscripts
-permalink: /publication/2009-10-01-paper-title-number-1
+permalink: /projects/career
 excerpt: 'This paper is about connected autonomous vehicles. We will continue information theory and game theory.<br/><img src='/images/500x300.png'>'
 date: 2021-05-01
 venue: 'Journal 1'
