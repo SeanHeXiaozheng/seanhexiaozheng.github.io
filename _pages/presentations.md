@@ -8,15 +8,10 @@ redirect_from:
 ---
 
 
-<div id="Contents"></div>
-## Contents
- - [Invited workshop/panel speaker](##invited-panel-speaker)
- - [Invited talk](#Chapter2)
- - [Conference presentations](##conference-presentations)
- 
-[Invited workshop/panel speaker](##invited-workshoppanel-speaker) | [Invited talk](##Chapter2) | [Conference presentations](##conference-presentations)
+<div id="Contents"></div> 
+[Invited workshop/panel speaker](#Panel) | [Invited talk](#Talks) | [Conference presentations](#Conference)
 
-
+<div id="Panel"></div>
 ## Invited workshop/panel speaker
 -----
 1.	**He X.** (2023) Panel on ITS for Transit, ITS-NY Thirtieth Annual Meeting & Technology Exhibition: A Connected World. June 14-16, 2023. 
@@ -25,6 +20,7 @@ redirect_from:
 4.	**He X.** (2019) Workshop on Precise Task Control in Teleoperation. The 5th International Conference on Artificial Intelligence and Security, New York University, July 26-28, New York, NY.
 5.	**He X.** (2018) TianYuan Workshop Series, gave a four-day short course on Mathematical Modeling and Numerical Experiments for Network Analysis and Traffic Control in Connected-Vehicle Systems. Nanjing University of Aeronautics and Astronautics, Nanjing, China, July 13-16.
 
+<div id="Talks"></div>
 ## Invited talk
 -----
 6.	**He X.** (2024) AI-Enabled Heterogeneous Information Provision for Congestion Mitigation based on Behavioral Economics. School of System Science, Beijing Jiaotong University, Beijing China, June 6, 2024.
@@ -53,9 +49,9 @@ redirect_from:
 29.	**He X.** (2010) Modeling the traffic flow evolution process after an unexpected network disruption. Department of Civil and Environmental Engineering, University of Maryland College Park, Oct. 22.
 30.	**He X.** (2010) Modeling the traffic flow evolution process after an unexpected network disruption. School of Civil and Environmental Engineering, Cornell University, Sept. 23.
 
-[To the top](##contents)
+[To the top](#Contents)
 
-<div id="Chapter2"></div>
+<div id="Conference"></div>
 ## Conference presentations
 ----
 31.	Ma X., **He X.** (2024) Real-time en-route suggestions to CAVs for congestion mitigation: A two-way deep reinforcement learning approach. The 25th International Symposium on Transportation and Traffic Theory (ISTTT), July 15-17, 2024, Ann Arbor, Michigan.
@@ -169,4 +165,4 @@ redirect_from:
 138.	Liu H.X., **He X.**, He B.S. (2006/2007) Method of successive weighted averages (MSWA) and self-regulated averaging schemes for solving stochastic user equilibrium problem. 2006 INFORMS Annual Meeting and 86th TRB Annual Meeting. 
 139.	Liu H.X., **He X.**, Recker W. (2006) Estimation of the time-dependency of values of travel time and its reliability from loop detector data. 85th TRB Annual Meeting.
 
-[To the top](##contents)
+[To the top](#Contents)
