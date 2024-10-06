@@ -10,10 +10,11 @@ redirect_from:
 
 
 ## Contents
- - [Specification](#specification) 
- - [Dependencies Title](#dependencies-title) 
+ - [Invited workshop/panel speaker](##invited-panel-speaker)
+ - [Invited talk](##invited-talk)
+ - [Conference presentations](##conference-presentations)
  
-[Invited workshop/panel speaker](##invited-panel-speaker)|[Invited talk](##invited-talk)|[Conference presentations](##conference-presentations)
+[Invited workshop/panel speaker](##invited-panel-speaker) | [Invited talk](##invited-talk) | [Conference presentations](##conference-presentations)
 
 ## Invited panel speaker
 -----
