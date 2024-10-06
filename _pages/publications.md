@@ -7,8 +7,6 @@ redirect_from:
 ---
 
 <div id="Contents"></div> 
-You can also find my articles on my [Google Scholar profile](https://scholar.google.com/citations?user=2lwJEmUAAAAJ&hl=en).
-
 [Journal papers](#Journal) | [Conference proceedings](#Conf) | [Book chapters](#Chapters) | [Research reports](#Reports)
 
 <div id="Journal"></div>
