@@ -43,3 +43,6 @@ Dynamic Traffic Assignment and Dynamic User Equilibrium
 - Dynamic network constraints and path-based and link-based formulations
 - Link-node based nonlinear complementarity formulations and solution techniques
 - Continuous dynamic user equilibrium models based on differential variational inequalities
+
+
+This course has been offered in **Fall, 2017; Spring, 2019; Fall, 2024**
