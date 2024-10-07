@@ -63,8 +63,8 @@ Team Members
 ---
 
 ### Ph.D. Students
-- Ms. Henan Zhu, Aug. 2022 - Present
 - Ms. Xiaoyu Ma, PhD, Aug. 2019 - August 2024
+  * First employment: Postdoc @ Carnegie Mellon University
   * Won the 2023 WTS Helene M. Overly Memorial Scholarship
   * Won the 2022 Founders Award of Excellence
   * Won the 2021 Belsky Award for Computational Sciences and Engineering
@@ -72,6 +72,7 @@ Team Members
   * First employment: Transportation Modeler @ The Corradino Group
 - Mr. Chunheng Jiang, Computer Science (Co-advised with Prof. Jianxi Gao) May 2018 - May 2022
   * First employment: Machine Learning Engineer @ Google
+
 
 ### Visiting Scholars
 - Mr. Pengcheng Wang, PhD, Oct. 2018 - Oct. 2019, Beihang University
