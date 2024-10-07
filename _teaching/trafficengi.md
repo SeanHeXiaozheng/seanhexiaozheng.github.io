@@ -36,4 +36,6 @@ Signal Timing Design
 - Signal Coordination
 - Traffic Impact Study
 
+
+---
 This course has been offered in: **Spring 2017; Spring 2018; Fall 2019; Fall 2020; Fall 2021; Fall 2022; Fall 2023; Spring 2025**

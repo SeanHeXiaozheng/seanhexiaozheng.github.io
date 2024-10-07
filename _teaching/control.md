@@ -14,27 +14,28 @@ This graduate level course focuses on advanced topics on urban traffic modeling,
 
 Fundamentals of Traffic Flow
 ----
-* Traffic stream parameters
-* Modeling microscopic traffic flow
-* Driving behavior algorithms
+- Traffic stream parameters
+- Modeling microscopic traffic flow
+- Driving behavior algorithms
 
 Basics of Traffic Control
 ----
-* Design of fixed time signals
-* Design of actuated signals
-* Design and Coordination of traffic signals using Synchro
+- Design of fixed time signals
+- Design of actuated signals
+- Design and Coordination of traffic signals using Synchro
 
 Performance Measurement of Traffic Signals and Corridors
 --------
-* Traffic flow theory and applications to performance measurement
-* Data collection from the field and automated data collection systems
-* Real-time performance measurement using advanced detection technologies
+- Traffic flow theory and applications to performance measurement
+- Data collection from the field and automated data collection systems
+- Real-time performance measurement using advanced detection technologies
 
 Traffic Simulation
 --------
-* Traffic simulation fundamentals
-* Use state-of-the-practice traffic micro-simulation tools to model and analyze urban traffic intersections and corridor network.
-* Evaluate performances of urban traffic signals and corridor network using traffic simulation VISSIM
+- Traffic simulation fundamentals
+- Use state-of-the-practice traffic micro-simulation tools to model and analyze urban traffic intersections and corridor network.
+- Evaluate performances of urban traffic signals and corridor network using traffic simulation VISSIM
 
 
+----
 This course has been offered in: **Fall, 2018**

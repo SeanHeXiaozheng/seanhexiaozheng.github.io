@@ -45,4 +45,5 @@ Traffic Forecasting
   * Highway route choice	
 
 
+---
 This course has been offered in: **Spring, 2020; Spring 2021; Spring 2022; Spring 2023**

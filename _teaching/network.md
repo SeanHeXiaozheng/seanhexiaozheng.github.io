@@ -45,4 +45,5 @@ Dynamic Traffic Assignment and Dynamic User Equilibrium
 - Continuous dynamic user equilibrium models based on differential variational inequalities
 
 
+---
 This course has been offered in **Fall, 2017; Spring, 2019; Fall, 2024**

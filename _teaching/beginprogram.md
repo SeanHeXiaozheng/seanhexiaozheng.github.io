@@ -12,26 +12,28 @@ This course serves as an introduction to fundamental programming concepts in the
 
 Introduction
 --------
-* Course intro
-* Coding user interface 
-* Intro to Python
+- Course intro
+- Coding user interface 
+- Intro to Python
 
 Programming syntax
 -----
-* Variables
-* Expressions
-* Types
+- Variables
+- Expressions
+- Types
 
 Control structures
 -------
-* Branching
-* Loops
-* Functions
+- Branching
+- Loops
+- Functions
 
 Techniques
 -------
-* Strings
-* Lists and dictionaries
-* Visualization
+- Strings
+- Lists and dictionaries
+- Visualization
 
+
+----
 This course has been offered in: **Spring, 2024**
