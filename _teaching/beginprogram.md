@@ -8,13 +8,30 @@ date: 2024-01-01
 location: "Troy, NY"
 ---
 
-This course teaches elementary programming concepts using the Python environment.  Students are expected to have little or no prior programming experience.  Topics include Python language syntax, variables, looping, function calls, manipulating arrays, perfoming statistical calculations, and plotting results.
+This course serves as an introduction to fundamental programming concepts in the Python environment. Geared towards students with minimal or no prior programming experience, this course covers essential topics such as Python language syntax, variables, types, control structures (branching and loops), functions, strings, lists, dictionaries, and techniques for visualizing results through plotting. By the end of the course, students will establish a solid foundation in Python programming, enabling them to solve elementary computational problems, engage in fundamental data analysis, and set the stage for more advanced coding endeavors.
 
-Heading 1
-======
+Introduction
+--------
+* Course intro
+* Coding user interface 
+* Intro to Python
 
-Heading 2
-======
+Programming syntax
+-----
+* Variables
+* Expressions
+* Types
 
-Heading 3
-======
+Control structures
+-------
+* Branching
+* Loops
+* Functions
+
+Techniques
+-------
+* Strings
+* Lists and dictionaries
+* Visualization
+
+This course has been offered in: **Spring, 2024**
