@@ -39,7 +39,7 @@ Appointments
 View my [**Curriculum Vitae**](/files/CV_XiaozhengHe_Online_2024.pdf) in pdf.
 
 
-<script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=8KGfUL_pkV9DNQfD3UyZcaQHl9ii8VeCMgJUzJtERlg&cl=ffffff&w=a"></script>
+<script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=3x5df6SHW47-zMjF62xfjhNcTZwER3Yc4Zbi2Ps_aIo&cl=ffffff&w=a"></script>
 
 
 <!---
