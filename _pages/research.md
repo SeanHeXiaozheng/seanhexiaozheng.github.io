@@ -88,7 +88,11 @@ Team Members
   * Project won a grand prize in the engineering category at Synopsys Science Fair 2024
 
 
-We gratefully acknowledge the support of the following agencies 
+We gratefully acknowledge the funding support of the following agencies:
 ---
-NSF, DOE, DOT-SEMPACT, 
+NSF, DOE, SEMPACT, IBM
+
+And our collabrators:
+----
+CLR Analytics, Price Chopper, CDTA
 <img src="../images/mit.png" height="200" width="150"><img src="../images/usc.png" height="200" width="150"><img src="../images/yale.png" height="200" width="150"><img src="../images/gmu.png" height="75" width="150"><img src="../images/UCB.png" height="150" width="150">
