@@ -85,6 +85,7 @@ redirect_from:
 3.	He B.S., **He X.**, Liu H.X., Wu T., (2009) Self-adaptive projection method for co-coercive variational inequalities. European Journal of Operational Research 196(1), 43-48. 
 2.	Liu H.X., **He X.**, He B.S. (2009) Method of successive weighted averages (MSWA) and self-regulated averaging schemes for solving stochastic user equilibrium problem. Networks and Spatial Economics 9(4), 485-503. 
 1.	Liu H.X., **He X.**, Recker W. (2007) Estimation of the time-dependency of values of travel time and its reliability from loop detector data. Transportation Research Part B 41(4), 448-461.
+{: reversed="reversed"}
 
 [To the top](#Contents)
 
