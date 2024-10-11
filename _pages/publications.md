@@ -12,9 +12,10 @@ redirect_from:
 <div id="Journal"></div>
 ## Journal papers (peer-reviewed)
 -------
-72.	Ma X., **He X.** (2024) Providing real-time en-route suggestions to CAVs for congestion mitigation: A two-way deep reinforcement learning approach. Transportation Research Part B 103014.
-71.	Wei Y., **He X.** (2024) Exploring Safety-Stability Tradeoffs in Cooperative CAV Platoon Controls with Bidirectional Impacts. Sensors 24(5), 1614.
-70.	Huo X., **He X.**, Xiong Z., Wu X., (2024) multi-objective optimization for scheduling multi-load automated guided vehicles with consideration of energy consumption. Transportation Research Part C 161, 104548.                      
+73.	Ma X., **He X.** (2024) Providing real-time en-route suggestions to CAVs for congestion mitigation: A two-way deep reinforcement learning approach. Transportation Research Part B 103014.
+72.	Wei Y., **He X.** (2024) Exploring Safety-Stability Tradeoffs in Cooperative CAV Platoon Controls with Bidirectional Impacts. Sensors 24(5), 1614.
+71.	Huo X., **He X.**, Xiong Z., Wu X., (2024) multi-objective optimization for scheduling multi-load automated guided vehicles with consideration of energy consumption. Transportation Research Part C 161, 104548.  
+70. Sun W., Hu Y., Zhang X., Yao X., **He. X.** (2024) Adversarial Style-Irrelevant Feature Learning with Refined Soft Pseudo Labels for Domain-Adaptive Vehicle Re-Identification. IEEE Transactions on Intelligent Transportation Systems, in press. 
 69.	Seilabi S.E., Pourgholamali M., Miralinaghi M., **He X.**, Labi S. (2024) Optimizing Dedicated Lanes and Tolling Schemes for Connected and Autonomous Vehicles to Address Bottleneck Congestion Considering Morning Commuter Departure Choices. Journal Intelligent Transportation Systems, in press, DOI: 10.1080/15472450.2024.2408024 
 68.	Wang P., Wu X., **He X.** (2023) Vibration-theoretic approach to vulnerability analysis of connected automated vehicle platoon control. IEEE Transactions on Intelligent Transportation Systems 24(10), 11334-11344.
 67.	**He X.**, Wei Y., Holguín-Veras J. (2023) Brownian bridge-based speed imputation technique for truck energy consumption estimation using low-resolution GPS data. Transportation Research Part D 144, 103546.
