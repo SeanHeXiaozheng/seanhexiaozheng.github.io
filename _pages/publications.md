@@ -135,6 +135,7 @@ redirect_from:
 3.  Liu* H.X., **He X.** (2008). A class of normative link flow control problems in transportation networks. Proceedings of the 87th Transportation Research Board Annual Meeting, Washington DC.
 2.  Liu* H.X., **He X.** (2007). Bi-level variational inequalities model and solution algorithm for link-based road pricing. 11th World Conference on Transportation Research, June 24-28, 2007, Berkeley, CA.
 1. Liu* H.X., **He X.**, Ban J. (2007) A cell-based dynamic system optimal model and its heuristic solution method for emergency evacuation. Proceedings of the 86th Transportation Research Board Annual Meeting, Washington DC.
+{: reversed="reversed"}
 
 [To the top](#Contents)
 
@@ -148,6 +149,7 @@ redirect_from:
 3.	Jabari S.E., **He X.**, Liu H.X. (2012) Chapter 14: Heuristic solution techniques for no-notice emergency evacuation traffic management. In: D.M. Levinson H.X. Liu M. Bell (Eds.), Network Reliability in Practice, pp. 241-259, Springer. 
 2.	**He X.**, Chen A., Chaovalitwongse W.A., Liu H.X. (2009) Chapter 7: On the quadratic programming approach for hub location problems. In: W.A. Chaovalitwongse, K. Furman, and P. Pardalos (Eds.) Optimization and Logistics Challenges in the Enterprise Part 2, pp. 211-228, Springer.
 1.	Chaovalitwongse W.A., **He X.**, Chen A., (2009) Multi-quadratic integer programming: Models and applications. In: C.A. Floudas and P.M. Pardalos (Eds.) Encyclopedia of Optimization Part 13, pp. 2513-2520, Springer.
+{: reversed="reversed"}
 
 [To the top](#Contents)
 
@@ -161,5 +163,6 @@ redirect_from:
 3. Liu H.X., **He X.**, Zhang S. (2012) Rethinking How We Manage Traffic to Reduce Emissions while Maintaining Mobility: A New Paradigm for Traffic Management. Initiative for Renewable Energy and the Environment Center for Transportation Studies, University of Minnesota.
 2.	Cao X., Liu H.X., **He X.**, Xu Z., Huang Y., Munnich L. (2012) Benefit and Cost Analysis of the I-394 MnPASS Program. Report No. 12-03, Intelligent Transportation Systems Institute, Center for Transportation Studies, University of Minnesota.
 1. Liu H.X., Danczyk A, **He X.** (2011) Development of the next generation metro-wide simulation models for the Twin Cities’ metropolitan area: Mesoscopic modeling. Report No. 11-03, Center for Transportation Studies, University of Minnesota.
+{: reversed="reversed"}
 
 [To the top](#Contents)
