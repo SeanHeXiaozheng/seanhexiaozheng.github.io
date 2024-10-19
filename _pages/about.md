@@ -21,18 +21,18 @@ Awards
 
 Education
 -----
-* Ph.D. in Civil Engineering, University of Minnesota, Twin Cities, 2010
-* M.S. in Civil Engineering, University of Minnesota, Twin Cities, 2007
-* M.S. in Computational Mathematics, Nanjing University, China, 2003
-* B.S. in Computational Mathematics, Nanjing University, China, 2000
+* Ph.D. in Civil Engineering, University of Minnesota, Twin Cities
+* M.S. in Civil Engineering, University of Minnesota, Twin Cities
+* M.S. in Computational Mathematics, Nanjing University, China
+* B.S. in Computational Mathematics, Nanjing University, China
 
 Appointments
 -----
-* Associate Professor, Civil and Environmental Engineering, Rensselaer Polytechnic Institute, Jan., 2024 ~ present
-* Assistant Professor, Civil and Environmental Engineering, Rensselaer Polytechnic Institute, Jan., 2017 ~ Dec. 2023
+* Associate Professor, Civil and Environmental Engineering, Rensselaer Polytechnic Institute, 2024 ~ present
+* Assistant Professor, Civil and Environmental Engineering, Rensselaer Polytechnic Institute, 2017 ~ 2023
 * Assistant Director of Research, VREF Center of Excellence for Sustainable Urban Freight System
-* Postdoc Research Associate, NEXTRANS Center, Purdue University, Aug., 2012 ~ Dec., 2016
-* Postdoc Research Associate, University of Minnesota, Twin Cities, Jan., 2011 ~ Aug., 2012
+* Postdoc Research Associate, NEXTRANS Center, Purdue University, 2012 ~ 2016
+* Postdoc Research Associate, University of Minnesota, Twin Cities, 2011 ~ 2012
 
 
 
