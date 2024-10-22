@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-My expertise is in modeling and simulating transportation systems with an emphasis on the impacts of emerging technologies and network disruptions. My research seeks to solve problems related to interdependent systems resilience, connected autonomous vehicles, and electric vehicles, through using tools developed based on operations research, game theory, information theory, control, complex network, and machine learning. Currently, I serve as a committee member on the Network Modeling Standing Committee of the Transportation Research Board (TRB), an editorial board member for Transportation Research Part B, an associate editor for Frontiers in Future Transportation, and a guest editor for several transportation journals. I am also a technical committee member for several international conferences. 
+I am currently an associate professor in the Department of Civil and Environmental Engineering at Rensselaer Polytechnic Institute (RPI). Prior to joining RPI in 2017, I worked as a postdoctoral research associate at the NEXTRANS Center at Purdue University. My expertise is in modeling and simulating transportation systems with an emphasis on the impacts of emerging technologies and network disruptions. My research seeks to solve problems related to interdependent systems resilience, connected autonomous vehicles, and electric vehicles, through using tools developed based on operations research, game theory, information theory, control, complex network, and machine learning. Currently, I serve as a committee member on the Network Modeling Standing Committee of the Transportation Research Board (TRB), an editorial board member for Transportation Research Part B, an associate editor for Frontiers in Future Transportation, and a guest editor for several transportation journals. I am also a technical committee member for several international conferences. 
 
 Awards
 ------
@@ -28,8 +28,8 @@ Education
 
 Appointments
 -----
-* Associate Professor, Civil and Environmental Engineering, Rensselaer Polytechnic Institute, 2024 ~ present
-* Assistant Professor, Civil and Environmental Engineering, Rensselaer Polytechnic Institute, 2017 ~ 2023
+* Associate Professor, Civil and Environmental Engineering, RPI, 2024 ~ present
+* Assistant Professor, Civil and Environmental Engineering, RPI, 2017 ~ 2023
 * Assistant Director of Research, VREF Center of Excellence for Sustainable Urban Freight System
 * Postdoc Research Associate, NEXTRANS Center, Purdue University, 2012 ~ 2016
 * Postdoc Research Associate, University of Minnesota, Twin Cities, 2011 ~ 2012
