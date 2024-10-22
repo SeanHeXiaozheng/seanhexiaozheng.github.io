@@ -21,8 +21,8 @@ Awards
 
 Education
 -----
-* Ph.D. in Civil Engineering, University of Minnesota, Twin Cities
-* M.S. in Civil Engineering, University of Minnesota, Twin Cities
+* Ph.D. in Transportation Engineering, University of Minnesota, Twin Cities
+* M.S. in Transportation Engineering, University of Minnesota, Twin Cities
 * M.S. in Computational Mathematics, Nanjing University, China
 * B.S. in Computational Mathematics, Nanjing University, China
 
