@@ -87,6 +87,8 @@ Team Members
 - Ms. Saanvi Sharma, May 2024~present
   * Project won a grand prize in the engineering category at Synopsys Science Fair 2024
 
+<img src="../images/Group2018.JPG" height="200" width="150">
+
 
 We gratefully acknowledge the funding support of the following agencies:
 ---
