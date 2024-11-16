@@ -23,6 +23,7 @@ redirect_from:
 <div id="Talks"></div>
 ## Invited talk
 -----
+6.	**He X.** (2024) Advances and challenges in enhancing the resilience of connected transportation systems, School of Mathematics, Nanjing University, China, Nov. 2, 2024. 
 6.	**He X.** (2024) AI-Enabled Heterogeneous Information Provision for Congestion Mitigation based on Behavioral Economics. School of System Science, Beijing Jiaotong University, Beijing China, June 6, 2024.
 7.	**He X.** (2024) Enhancing CAV Intersection Crossings Reliability: A Mechanical Vibration Theoretic Approach. School of Economics and Management, Dalian University of Technology, Dalian, China, June 3, 2024.
 8.	**He X.** (2024) AI-Enabled Heterogeneous Information Provision for Congestion Mitigation based on Behavioral Economics. School of Management & Engineering, Nanjing University, Nanjing China, May 31, 2024.
