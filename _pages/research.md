@@ -95,17 +95,21 @@ HEX Lab members in 2018 (from left to right): Dr. He, Carrie M. Conton, Pengchen
 
 We gratefully acknowledge the funding support of the following agencies:
 ---
-<img src="../images/NSF.jpg" height="200" width="200">
-<img src="../images/DOE.png" height="200" width="200">
-<img src="../images/DOT.png" height="200" width="200">
-<img src="../images/IBM.png" height="200" width="498">
+<img src="../images/NSF.jpg" height="150" width="150">
+<img src="../images/DOE.png" height="150" width="150">
+<img src="../images/DOT.png" height="150" width="150">
 
-<img src="../images/SEMPACT.png" height="200" width="400">
-<img src="../images/CITE.png" height="200" width="302">
-<img src="../images/COE.png" height="200" width="337">
+**NSF, DOE, DOT**
 
-NSF, DOE, DOT, IBM
-SEMPACT, CITE, CoE-SUFS
+<img src="../images/IBM.png" height="150" width="374">
+
+**IBM**
+
+<img src="../images/SEMPACT.png" height="150" width="300">
+<img src="../images/CITE.png" height="150" width="227">
+<img src="../images/COE.png" height="150" width="253">
+
+**SEMPACT, CITE, CoE-SUFS** Centers
 
 And our collabrators:
 ----
