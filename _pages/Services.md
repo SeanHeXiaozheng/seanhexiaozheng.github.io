@@ -27,7 +27,7 @@ redirect_from:
 - **Journal of Advanced Transportation**, on "Electric Vehicles: Planning and Operations"
 
 ## Committee Member
-- **Board of Directors**, ITS-NY (2019~)
+- **Board of Directors**, ITS-NY (2019~2022)
 - **Technical Committee Member**, World Transport Convention (2018~)
 - **Scientific Committee Member**, The International Conference on Civil Engineering Fundamentals and Applications (ICCEFA’20)—London, England, September 7-8, 2020; and ICCEFA’21—Seoul, South Korea, Nov 21-23, 2021
 - **Scientific Committee Member**, The 5th International Conference on Civil Structural and Transportation Engineering (ICCSTE’20)—Niagara Falls, June 11-13, 2020
