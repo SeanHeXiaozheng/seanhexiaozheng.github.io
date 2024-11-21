@@ -15,7 +15,7 @@ Awards
 * NSF CAREER Award, 2021
 * ASCE ExCEEd Faculty Fellowship, US Military Academy West Point, 2018
 * Best Paper Award at IEEE Conference on ITS, 2015
-* NCITE Student Scholarship Award, 2010
+* NC-ITE Graduate Student Scholarship, 2010
 * Matthew J. Huber Award for Excellence in Transportation Research, 2007
 * Nanrui Excellent Graduate Thesis Fund, 2001
 
