@@ -89,12 +89,23 @@ Team Members
 
 ### Research group photo
 <img src="../images/Group2018.jpeg" height="600" width="360">
+
 HEX Lab members in 2018 (from left to right): Dr. He, Carrie M. Conton, Pengcheng Wang, Yu Wei, and Wenjing Zhang.
 
 
 We gratefully acknowledge the funding support of the following agencies:
 ---
-NSF, DOE, SEMPACT, IBM
+<img src="../images/NSF.jpg" height="200" width="200">
+<img src="../images/DOE.png" height="200" width="200">
+<img src="../images/DOT.png" height="200" width="200">
+<img src="../images/IBM.png" height="200" width="498">
+
+<img src="../images/SEMPACT.png" height="200" width="400">
+<img src="../images/CITE.png" height="200" width="302">
+<img src="../images/COE.png" height="200" width="337">
+
+NSF, DOE, DOT, IBM
+SEMPACT, CITE, CoE-SUFS
 
 And our collabrators:
 ----
