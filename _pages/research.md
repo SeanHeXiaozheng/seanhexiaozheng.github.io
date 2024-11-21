@@ -87,7 +87,9 @@ Team Members
 - Ms. Saanvi Sharma, May 2024~present
   * Project won a grand prize in the engineering category at Synopsys Science Fair 2024
 
-<img src="../images/Group2018.jpeg" height="500" width="300">
+### Research group photo
+<img src="../images/Group2018.jpeg" height="600" width="360">
+HEX Lab members in 2018 (from left to right): Dr. He, Carrie M. Conton, Pengcheng Wang, Yu Wei, and Wenjing Zhang.
 
 
 We gratefully acknowledge the funding support of the following agencies:
