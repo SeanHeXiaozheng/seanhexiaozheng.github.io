@@ -97,9 +97,11 @@ We gratefully acknowledge the funding support of the following agencies:
 ---
 <img src="../images/NSF.jpg" height="150" width="150">
 <img src="../images/DOE.png" height="150" width="150">
+<!---
 <img src="../images/DOT.png" height="150" width="150">
+-->
 
-**NSF, DOE, DOT**
+**NSF, DOE**
 
 <img src="../images/IBM.png" height="120" width="300">
 
