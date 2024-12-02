@@ -115,5 +115,5 @@ We gratefully acknowledge the funding support of the following agencies:
 
 And our collabrators:
 ----
-CLR Analytics, Price Chopper, CDTA
-<img src="../images/mit.png" height="200" width="150"><img src="../images/usc.png" height="200" width="150"><img src="../images/yale.png" height="200" width="150"><img src="../images/gmu.png" height="75" width="150"><img src="../images/UCB.png" height="150" width="150">
+
+**CLR Analytics, Price Chopper, CDTA**
