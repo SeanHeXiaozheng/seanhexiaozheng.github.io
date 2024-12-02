@@ -64,11 +64,13 @@ Team Members
 
 ### Ph.D. Students
 - Ms. Xiaoyu Ma, PhD, Aug. 2019 - August 2024
+  * Dissertation: Intelligent Information Provision for Emerging Transportation Systems
   * First employment: Postdoc @ Carnegie Mellon University
   * Won the 2023 WTS Helene M. Overly Memorial Scholarship
   * Won the 2022 Founders Award of Excellence
   * Won the 2021 Belsky Award for Computational Sciences and Engineering
 - Mr. Yu Wei, PhD, Aug. 2018 - May 2023
+  * Dissertation: Fostering Cooperative Intersection Crossing for Connected and Automated Traffic on Urban Corridors
   * First employment: Transportation Modeler @ The Corradino Group
 - Mr. Chunheng Jiang, Computer Science (Co-advised with Prof. Jianxi Gao) May 2018 - May 2022
   * First employment: Machine Learning Engineer @ Google
