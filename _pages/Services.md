@@ -75,25 +75,29 @@ redirect_from:
 - Journal of Global Optimization
 - Journal of Applied Mathematics and Computing
 - Journal of Cleaner Production
-- Journal of Beijing University of Aeronautics and Astronautics
 - Computer-Aided Civil and Infrastructure Engineering
 - Computers & Industrial Engineering
 - Expert Systems With Applications
 - Energies
 - Automatica
+- Applied Sciences
 - Optimization Letters
 - Physica A
 - PLOS ONE
-- Applied Sciences
 - KSCE Journal of Civil Engineering
 - Multimedia Tools and Applications
 - Reliability Engineering & System Safety
 - Sustainability
 
+
+## Conference committee chair
+ - **World Transport Convention:** Chair of Technical Committee of Transportation Network Design, 2024~present
+
+
 ## Conference Paper Referee
-- **International Symposium on Transportation and Traffic Theory**
-- **Transportation Research Board Annual Meeting**
-- **IEEE Conference on Intelligent Transportation Systems**
+- **International Symposium on Transportation and Traffic Theory (ISTTT)**
+- **Transportation Research Board Annual Meeting (TRB)**
+- **IEEE Conference on Intelligent Transportation Systems (ITSC)**
 - **COTA International Conference of Transportation Professionals**
 
 ## Conference Area Editor
