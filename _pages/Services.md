@@ -12,7 +12,7 @@ redirect_from:
 - **Transportation Research Part B**
 
 ## Subject Editor
-- **Nonlinear Dynamics**
+- **Nonlinear Dynamics** (Q1 journal in engineering systems)
 
 ## Associate Editor
 - **Frontiers in Future Transportation**
@@ -100,7 +100,7 @@ redirect_from:
 - **The 17th COTA International Conference of Transportation Professionals (CICTP2017)** – Tongji University, Shanghai, China, July 7-9, 2017
 
 ## Conference Session Chair
-- **Transportation Research Board Annual Meeting, 2025**, "Network Modeling"
+- **Transportation Research Board Annual Meeting**, 2025, AEP40 Lectern Session: “Network Modeling Problems for Commercial Fleets.”
 - **INFORMS Annual Meeting**, 2021, “Data-driven Modeling and Analytics in Infrastructure Systems in Response to Disturbances.”
 - **INFORMS Annual Meeting**, 2020, “Pricing and Incentive Strategies Leveraging Emergent Technologies”
 - **Workshop on Precise Task Control in Teleoperation**, The 5th International Conference on Artificial Intelligence and Security, New York University, July 26-28, 2019, New York
