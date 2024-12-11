@@ -23,7 +23,6 @@ Systems: Revolutionizing Operation, Management, and Planning"
 - **Automotive Innovation**, on "Feature Topic on Intelligent Transportation Systems"
 - **Multimodal Transportation**, on "Advances in Connected and Autonomous Transportation: Revolutionizing Operation, Management, and Planning"
 - **Transportation Research Part D**, on "Advances in Alternative Fuel Vehicles"
-- **Frontiers in Future Transportation**, on "Innovative approaches for resilient connected and automated vehicle systems"
 - **Sustainability**, on "Sustainable Transportation and Traffic in Smart Cities"
 - **Journal of Advanced Transportation**, on "Electric Vehicles: Planning and Operations"
 
