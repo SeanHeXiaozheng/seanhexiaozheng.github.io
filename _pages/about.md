@@ -11,11 +11,10 @@ I am currently an associate professor in the Department of Civil and Environment
 
 ---
 * **H**: Hydrogen, the foundational element of the universe.
-* **e**: $\varepsilon$, symbolizing infinitesimal quantities and the power of small, incremental progress.
+* **e**: $\epsilon$, symbolizing infinitesimal quantities and the power of small, incremental progress.
 * **X**: eXploration, embodying the drive to uncover the unknown.
 
 Together, "HeX" reflects my belief in focusing on fundamentals, making steady progress through small steps, and striving for groundbreaking discoveries—ultimately igniting a "Big Bang" of innovation and understanding.
-
 
 Awards
 ------
