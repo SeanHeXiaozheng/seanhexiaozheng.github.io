@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "H$\varepsilon$X Lab @ RPI"
+title                    : "HeX Lab @ RPI"
 title_separator          : "-"
 name                     : &name "Sean X. He"
 description              : &description "Associate Professor"

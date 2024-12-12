@@ -7,7 +7,16 @@ redirect_from:
   - /about.html
 ---
 
+About Me
+---
 I am currently an associate professor in the Department of Civil and Environmental Engineering at Rensselaer Polytechnic Institute (RPI). Prior to joining RPI, I worked as a postdoctoral research associate at the NEXTRANS Center at Purdue University. My expertise is in modeling, simulating, analyzing, and optimizing transportation systems with an emphasis on the impacts of emerging technologies and disruptive events. My research seeks to solve problems related to interdependent systems resilience, connected autonomous vehicles, and electric vehicles, through using tools developed based on operations research, game theory, information theory, control, complex network, dynamical system, abstract algebra, and machine learning. Currently, I serve as a committee member on the Network Modeling Standing Committee of the Transportation Research Board (TRB), an Editorial Board Member for *Transportation Research Part B*, a Subject Editor for *Nonlinear Dynamics*, an Associate Editor for *Frontiers in Future Transportation*, and a guest editor for several transportation journals. I am also a technical committee member for several international conferences. 
+
+About Hex Lab
+---
+* **H**: Hydrogen, the foundational element of the universe.
+* **e**: $\varepsilon$, symbolizing infinitesimal quantities and the power of small, incremental progress.
+* **X**: eXploration, embodying the drive to uncover the unknown.
+Together, "HeX" reflects my belief in focusing on fundamentals, making steady progress through small steps, and striving for groundbreaking discoveries—ultimately igniting a "Big Bang" of innovation and understanding.
 
 Awards
 ------
@@ -33,7 +42,6 @@ Appointments
 * Assistant Director of Research, VREF Center of Excellence for Sustainable Urban Freight System
 * Postdoc Research Associate, NEXTRANS Center, Purdue University, 2012 ~ 2016
 * Postdoc Research Associate, University of Minnesota, Twin Cities, 2011 ~ 2012
-
 
 
 View my [**Curriculum Vitae**](/files/CV_XiaozhengHe_Online_2024.pdf) in pdf.
