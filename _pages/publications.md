@@ -11,7 +11,7 @@ redirect_from:
 
 <div id="Journal"></div>
 ## Journal papers (peer-reviewed)
--------
+---
 73.	Ma X., **He X.** (2024) Providing real-time en-route suggestions to CAVs for congestion mitigation: A two-way deep reinforcement learning approach. Transportation Research Part B 103014.
 72.	Wei Y., **He X.** (2024) Exploring Safety-Stability Tradeoffs in Cooperative CAV Platoon Controls with Bidirectional Impacts. Sensors 24(5), 1614.
 71.	Huo X., **He X.**, Xiong Z., Wu X., (2024) multi-objective optimization for scheduling multi-load automated guided vehicles with consideration of energy consumption. Transportation Research Part C 161, 104548.  
@@ -91,7 +91,7 @@ redirect_from:
 
 <div id="Conf"></div>
 ## Conference proceedings (peer-reviewed)
------
+---
 42.	Ma, X., He*, X. (2024) Providing real-time en-route suggestions to CAVs for congestion mitigation: A two-way deep reinforcement learning approach. The 25th International Symposium on Transportation and Traffic Theory (ISTTT25), July 15-17, 2024, Ann Arbor Michigan.
 41.	Wang P., Gao S., Li Z., Wu X., **He X.** (2024). Fuel Consumption and Emissions Analysis of a Connected Automated Vehicle Platoon in Unstable Traffic. In Chinese Conference on Swarm Intelligence and Cooperative Control (pp. 455-464). Springer Nature Singapore.
 40.	Ma X., He* X. (2024) Correlated CAV En-route Routing for Congestion Mitigation. The 103rd Transportation Research Board Annual Meeting, Jan. 7-11, Washington DC. TRBAM-24-04110.
@@ -141,7 +141,7 @@ redirect_from:
 
 <div id="Chapters"></div>
 ## Book chapters and editorial
-------
+---
 7.	Wu* X., **He X.**, Cao J. (2020) Advances in alternative fuel vehicles. Transportation Research Part D 85, 102408, Elsevier.
 6.	Sun W., Zhou X., Zhang X., **He X.** (2020) A Lightweight Neural Network Combining Dilated Convolution and Depthwise Separable Convolution. In: X. Zhang G. Liu M. Qiu, W. Xiang, T. Huang (Eds.) Cloud Computing, Smart Grid and Innovative Frontiers in Telecommunications, pp. 210-220. DOI:10.1007/978-3-030-48513-9_17, Springer.
 5.	Peeta S., Liu H.X., **He X.** (2015) Chapter 3: Traffic Network Modeling. In: Dušan Teodorović (Eds.) Handbook of Transportation, pp. 25-41, Routledge.
@@ -155,7 +155,7 @@ redirect_from:
 
 <div id="Reports"></div>
 ## Research reports
--------
+---
 7.	Song D., **He X.**, Peeta S., Zhou X. (2015) Integrated Deployment Architecture for Predictive Real-Time Traffic Routing Incorporating Human Factors Considerations. NEXTRANS Center, Purdue University.
 6. 	Song D., **He X.**, Peeta S. (2014) Field Deployment to Quantify the Value of Real-time Information by Integrating Driver Routing Decisions and Route Assignment Strategies. NEXTRANS Center, Purdue University.
 5. Lee C., **He X.**, Peeta S., Chu C.-P., (2014) Highway Reservation System Design and Its Application to Freight Transportation. NEXTRANS Center, Purdue University.
