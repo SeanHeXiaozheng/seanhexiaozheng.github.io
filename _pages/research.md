@@ -9,6 +9,10 @@ redirect_from:
 
 {% include base_path %}
 
+Research Philosophy
+---
+Use computation to understand our world, embracing it as a physical process that bridges natural phenomena to abstract models.
+
 Transportation Systems Modeling and Analysis
 ---
 
