@@ -35,7 +35,7 @@ Appointments
 * Postdoc Research Associate, University of Minnesota, Twin Cities, 2011 ~ 2012
 
 
-View my [**Curriculum Vitae**](/files/CV_XiaozhengHe_Online_2024.pdf) in pdf.
+View my [**Curriculum Vitae**](/files/CV_XiaozhengHe_Online_2025.pdf) in pdf.
 
 
 <script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=ffffff&w=200&t=n&d=3x5df6SHW47-zMjF62xfjhNcTZwER3Yc4Zbi2Ps_aIo'></script>
