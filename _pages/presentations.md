@@ -23,6 +23,7 @@ redirect_from:
 <div id="Talks"></div>
 ## Invited talk
 -----
+6.	**He X.** (2025) Toward Resilient Connected-Vehicle Systems: From Cybersecurity to Strategic Information Provision, Autonomous & Connected Transportation (ACT) Lab, Georgia Tech, Mar. 12, 2025 (online). 
 6.	**He X.** (2024) Advances and challenges in enhancing the resilience of connected transportation systems, School of Mathematics, Nanjing University, China, Nov. 2, 2024. 
 6.	**He X.** (2024) AI-Enabled Heterogeneous Information Provision for Congestion Mitigation based on Behavioral Economics. School of System Science, Beijing Jiaotong University, Beijing China, June 6, 2024.
 7.	**He X.** (2024) Enhancing CAV Intersection Crossings Reliability: A Mechanical Vibration Theoretic Approach. School of Economics and Management, Dalian University of Technology, Dalian, China, June 3, 2024.
@@ -55,6 +56,7 @@ redirect_from:
 <div id="Conference"></div>
 ## Conference presentations
 ----
+31.	**He X.** (2025) Advanced Simulation Framework for Enhancing Scenario Planning in Sustainable Transportation. The 2025 New York State Association of MPOs conference, May 13-14, 2025, Syracuse, New York. 
 31.	Ma X., **He X.** (2024) Real-time en-route suggestions to CAVs for congestion mitigation: A two-way deep reinforcement learning approach. The 25th International Symposium on Transportation and Traffic Theory (ISTTT), July 15-17, 2024, Ann Arbor, Michigan.
 32.	Zhu H., **He X.** (2024) Who is ready to embrace accessible drone delivery in rural areas? Insights from Large Language Model (LLM)-Driven Willingness Analysis. ITS-NY Thirty-First Annual Meeting & Technology Exhibition: “Guardians of Transportation”, Saratoga Springs, NY, June 13-14, 2024. 
 33.	Ma X., **He X.** (2024) Correlated CAV En-route Routing for Congestion Mitigation. The 103rd Transportation Research Board Annual Meeting, Jan. 7-11, Washington DC. TRBAM-24-04110.
