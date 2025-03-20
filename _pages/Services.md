@@ -94,7 +94,6 @@ redirect_from:
 ## Conference committee chair
  - **World Transport Convention:** Chair of Technical Committee of Transportation Network Design, 2024~present
 
-
 ## Conference Paper Referee
 - **International Symposium on Transportation and Traffic Theory (ISTTT)**
 - **Transportation Research Board Annual Meeting (TRB)**
