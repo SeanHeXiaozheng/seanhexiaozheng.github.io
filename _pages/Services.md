@@ -18,8 +18,7 @@ redirect_from:
 - **Frontiers in Future Transportation**
 
 ## Special Issue Editor
-- **Transportation Research Part B**, on "Methodological Advances for Connected and Autonomous Transportation
-Systems: Revolutionizing Operation, Management, and Planning"
+- **Transportation Research Part B**, on "Methodological Advances for Connected and Autonomous Transportation Systems: Revolutionizing Operation, Management, and Planning"
 - **Automotive Innovation**, on "Feature Topic on Intelligent Transportation Systems"
 - **Multimodal Transportation**, on "Advances in Connected and Autonomous Transportation: Revolutionizing Operation, Management, and Planning"
 - **Transportation Research Part D**, on "Advances in Alternative Fuel Vehicles"
@@ -68,6 +67,7 @@ Systems: Revolutionizing Operation, Management, and Planning"
 - IEEE Transactions on Transportation Electrification
 - IET Intelligent Transport Systems
 - International Journal of Transportation Science and Technology
+- Nature Computational Science
 - Networks and Spatial Economics
 - Nonlinear Analysis: Hybrid Systems
 - Journal of Intelligent Transportation Systems
