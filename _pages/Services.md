@@ -38,7 +38,7 @@ redirect_from:
 - **NSF panelist** (ENG/CMMI)
   * CIS (2023) 
   * CPS (2019, 2024)
-  * MRI (2024)
+  * MRI (2024, 2025)
   * DCSD (2024)
 - **NSF panelist** (SBE) 
   * SAI (2022, 2023)
@@ -51,7 +51,7 @@ redirect_from:
   * Pacific Southwest Region (PSR) UTC (2024)  
 - **Swiss National Science Foundation—Switzerland** (2024)
 - **FONDECYT Program—Chile** (2020)
-- **Research Grants Council of Hong Kong** (2021~2024)
+- **Research Grants Council of Hong Kong** (2021~2025)
 - **Innovation and Technology Commission of Hong Kong** (2024)
 - **University of California Institute of Transportation Studies** (2020, 2023)
 
