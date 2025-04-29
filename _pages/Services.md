@@ -35,14 +35,12 @@ redirect_from:
 - **Committee Member**, COTA Best Dissertation Award (2018)
 
 ## Proposal Referee
-- **NSF panelist** (ENG/CMMI)
-  * CIS (2023) 
-  * CPS (2019, 2024)
-  * MRI (2024, 2025)
-  * DCSD (2024)
-- **NSF panelist** (SBE) 
-  * SAI (2022, 2023)
-- **NSF ad-hoc reviewer** (ENG/CMMI) (2022)
+- **NSF panelist**
+  * ENG/CMMI: 2019, 2023, 2024, 2025 
+  * SBE/SES: 2022, 2023
+- **NSF ad-hoc reviewer**  
+  * ENG/CMMI: 2022
+  * SBE/SES: 2025
 - **Proposal reviewer for University Transportation Centers** 
   * TransInfo, Tier I UTC (2017) 
   * NCST Center, National UTC (2019, 2020) 
