@@ -59,15 +59,17 @@ redirect_from:
 - Transportation
 - Transportation Safety & Security
 - Transportmetrica A, B
-- IEEE Transactions on Cybernetics
-- IEEE Transactions on Intelligent Transportation Systems
-- IEEE Transactions on Industrial Electronics
-- IEEE Transactions on Transportation Electrification
+- IEEE Trans. on Cybernetics
+- IEEE Trans. on Intelligent Transportation Systems
+- IEEE Trans. on Industrial Electronics
+- IEEE Trans. on Transportation Electrification
 - IET Intelligent Transport Systems
 - International Journal of Transportation Science and Technology
+- Nature Communications 
 - Nature Computational Science
 - Networks and Spatial Economics
 - Nonlinear Analysis: Hybrid Systems
+- Nonlinear Dynamics
 - Journal of Intelligent Transportation Systems
 - Journal of Advanced Transportation
 - Journal of Optimization Theory and Applications
