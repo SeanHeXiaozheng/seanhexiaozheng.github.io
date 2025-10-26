@@ -14,9 +14,6 @@ redirect_from:
 ## Subject Editor
 - **Nonlinear Dynamics** (Q1 journal in engineering systems)
 
-## Associate Editor
-- **Frontiers in Future Transportation**
-
 ## Special Issue Editor
 - **Transportation Research Part B**, on "Methodological Advances for Connected and Autonomous Transportation Systems: Revolutionizing Operation, Management, and Planning"
 - **Automotive Innovation**, on "Feature Topic on Intelligent Transportation Systems"
@@ -50,7 +47,7 @@ redirect_from:
 - **Swiss National Science Foundation—Switzerland** (2024)
 - **FONDECYT Program—Chile** (2020)
 - **Research Grants Council of Hong Kong** (2021~2025)
-- **Innovation and Technology Commission of Hong Kong** (2024)
+- **Innovation and Technology Commission of Hong Kong** (2024, 2025)
 - **University of California Institute of Transportation Studies** (2020, 2023)
 
 ## Journal Paper Referee
@@ -65,6 +62,7 @@ redirect_from:
 - IEEE Trans. on Transportation Electrification
 - IET Intelligent Transport Systems
 - International Journal of Transportation Science and Technology
+- iScience
 - Nature Communications 
 - Nature Computational Science
 - Networks and Spatial Economics

@@ -19,7 +19,7 @@ Transportation Systems Modeling and Analysis
 - Analysis of information diffusion in a connected vehicle system with communication congestion
 - Analysis of the interplay between traffic flow and information flow
 - Information provision strategies
-- Traffic flow evolution after network disruption
+- Affective computing for information provision
 
 ### Traffic Flow Evolution After Network Disruption
 - Theoretical models for characterizing traffic flow evolution after network disruption
@@ -30,6 +30,7 @@ Transportation Systems Modeling and Analysis
 ### Transportation Network Evacuation
 - Dynamic resource allocation problem for transportation network evacuation
 - Shelter location and contraflow operations
+- Integration with geoinformatics to support effective operations
 - Bender’s decomposition scheme for large-scale network evacuation problems
 
 Traffic Management and Operations

@@ -12,6 +12,8 @@ redirect_from:
 <div id="Journal"></div>
 ## Journal papers (peer-reviewed)
 ---
+75.	Ma X., **He X.** (2025) Multi-class within-day dynamic traffic equilibrium with simultaneous path-and-departure-time choices and strategic travel time information. Transportation Research Part C 178, 105269.
+74.	Ma X., **He X.**, Holguín-Veras J. (2025) Optimal On-Street Parking Space Allocation for Freight, Service, and Passenger Vehicles. Transportmetrica A: Transport Science, 10.1080/23249935.2025.2498671.
 73.	Ma X., **He X.** (2024) Providing real-time en-route suggestions to CAVs for congestion mitigation: A two-way deep reinforcement learning approach. Transportation Research Part B 103014.
 72.	Wei Y., **He X.** (2024) Exploring Safety-Stability Tradeoffs in Cooperative CAV Platoon Controls with Bidirectional Impacts. Sensors 24(5), 1614.
 71.	Huo X., **He X.**, Xiong Z., Wu X., (2024) multi-objective optimization for scheduling multi-load automated guided vehicles with consideration of energy consumption. Transportation Research Part C 161, 104548.  
