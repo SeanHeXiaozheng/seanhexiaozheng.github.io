@@ -9,7 +9,11 @@ redirect_from:
 
 {% include base_path %}
 
-> Computation is a physical process that bridges abstract models with natural phenomena.
+> "Computation is a physical process the purpose of which is the abstract manipulation of abstract objects."
+> — John von Neumann
+
+> "Computation is a physical process the purpose of which is the abstract manipulation of abstract objects.
+> -- Bruce J. MacLennan
 
 Transportation Systems Modeling and Analysis
 ---
