@@ -10,12 +10,15 @@ redirect_from:
 {% include base_path %}
 
 > "The only thing that I know is that I know nothing." 
+>
 > — Socrates
 
 > "If people do not believe that mathematics is simple, it is only because they do not realize how complicated life is."
+>
 > — John von Neumann
 
 > "Computation is a physical process the purpose of which is the abstract manipulation of abstract objects.
+>
 > — Bruce J. MacLennan
 
 Transportation Systems Modeling and Analysis
