@@ -14,6 +14,8 @@ redirect_from:
 
 <div id="Journal"></div>
 ## Journal papers (peer-reviewed)
+77.	Ma Y., Yao Z., Liu X., Xiong Z., **He X.**, Wu X. (2026). Efficient 3D object annotation via vision-derived pseudo-LiDAR and Vision Language Model (VLM) validation. Transportation Research Part C: Emerging Technologies 182, 105429.
+76.	Yang X., **He X.**, Hwang F-J, Ban X., Luo Q. (2025) Dynamic bus allocation and routing for multimodal emergency evacuations. Transportmetrica A: Transport Science, 10.1080/23249935.2025.2588172. 
 75.	Ma X., **He X.** (2025) Multi-class within-day dynamic traffic equilibrium with simultaneous path-and-departure-time choices and strategic travel time information. Transportation Research Part C 178, 105269.
 74.	Ma X., **He X.**, Holguín-Veras J. (2025) Optimal On-Street Parking Space Allocation for Freight, Service, and Passenger Vehicles. Transportmetrica A: Transport Science, 10.1080/23249935.2025.2498671.
 73.	Ma X., **He X.** (2024) Providing real-time en-route suggestions to CAVs for congestion mitigation: A two-way deep reinforcement learning approach. Transportation Research Part B 103014.
@@ -144,7 +146,6 @@ redirect_from:
 
 <div id="Chapters"></div>
 ## Book chapters and editorial
----
 7.	Wu* X., **He X.**, Cao J. (2020) Advances in alternative fuel vehicles. Transportation Research Part D 85, 102408, Elsevier.
 6.	Sun W., Zhou X., Zhang X., **He X.** (2020) A Lightweight Neural Network Combining Dilated Convolution and Depthwise Separable Convolution. In: X. Zhang G. Liu M. Qiu, W. Xiang, T. Huang (Eds.) Cloud Computing, Smart Grid and Innovative Frontiers in Telecommunications, pp. 210-220. DOI:10.1007/978-3-030-48513-9_17, Springer.
 5.	Peeta S., Liu H.X., **He X.** (2015) Chapter 3: Traffic Network Modeling. In: Dušan Teodorović (Eds.) Handbook of Transportation, pp. 25-41, Routledge.
@@ -158,7 +159,6 @@ redirect_from:
 
 <div id="Reports"></div>
 ## Research reports
----
 7.	Song D., **He X.**, Peeta S., Zhou X. (2015) Integrated Deployment Architecture for Predictive Real-Time Traffic Routing Incorporating Human Factors Considerations. NEXTRANS Center, Purdue University.
 6. 	Song D., **He X.**, Peeta S. (2014) Field Deployment to Quantify the Value of Real-time Information by Integrating Driver Routing Decisions and Route Assignment Strategies. NEXTRANS Center, Purdue University.
 5. Lee C., **He X.**, Peeta S., Chu C.-P., (2014) Highway Reservation System Design and Its Application to Freight Transportation. NEXTRANS Center, Purdue University.
