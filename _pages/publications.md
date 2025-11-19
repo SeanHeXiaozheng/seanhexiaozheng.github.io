@@ -6,7 +6,7 @@ redirect_from:
   - /publications.html
 ---
 
-> "The only thing that I know is that I know nothing." 
+> "The only thing I know is that I know nothing." 
 > — Socrates
 
 <div id="Contents"></div> 
