@@ -6,6 +6,9 @@ redirect_from:
   - /publications.html
 ---
 
+> "The only thing that I know is that I know nothing." 
+> — Socrates
+
 <div id="Contents"></div> 
 [Journal papers](#Journal) | [Conference proceedings](#Conf) | [Book chapters](#Chapters) | [Research reports](#Reports)
 

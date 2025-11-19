@@ -9,9 +9,6 @@ redirect_from:
 
 {% include base_path %}
 
-> "The only thing that I know is that I know nothing." 
-> — Socrates
-
 > "If people do not believe that mathematics is simple, it is only because they do not realize how complicated life is."
 > — John von Neumann
 
