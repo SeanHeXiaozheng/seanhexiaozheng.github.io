@@ -6,7 +6,8 @@ redirect_from:
   - /md/
   - /presentations.html
 ---
-
+> "If people do not believe that mathematics is simple, it is only because they do not realize how complicated life is."
+> — John von Neumann
 
 <div id="Contents"></div> 
 [Workshop and panel speaker](#Panel) | [Invited talk](#Talks) | [Conference presentations](#Conference)
