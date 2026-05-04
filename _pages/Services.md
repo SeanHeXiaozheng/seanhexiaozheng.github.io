@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 
-## Editorial Board Member
+## Associate Editor
 - **Transportation Research Part B**
 
 ## Subject Editor
